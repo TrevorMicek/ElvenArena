@@ -67,7 +67,7 @@ display.tile_sheet.image.addEventListener(
   { once: true }
 );
 
-display.tile_sheet.image.src = "./Assets/rabbit-trap.png";
+display.tile_sheet.image.src = "./workingGame/Assets/rabbit-trap.png";
 
 window.addEventListener("keydown", keyDownUp);
 window.addEventListener("keyup", keyDownUp);
